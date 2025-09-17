@@ -1,21 +1,18 @@
+# Hi there 👋, I'm Rahul Misal  
+**Web Developer | Ethical Hacker | Programmer | IT Enthusiast | Quick Learner**
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Misal!;" />
-</h1>
-<h3 align="center">A passionate software developer from Pune,India </h3>
-<br/>
-<div align="center">
- </div>
-<div align="center"> 
-  <a href="mailto:codesrahul96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/codesrahul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+I'm a passionate **Web Developer** and **Programmer** with a strong enthusiasm for technology and continuous learning. With hands-on experience in **manual testing** and a keen eye for detail, I enjoy identifying issues, improving software quality, and contributing to better user experiences. I'm currently seeking opportunities to apply and expand my skills in a professional setting.
+
+I bring a **hardworking, enthusiastic attitude** and a **positive approach to life**. My strengths include the ability to **manage stress and time effectively**, **collaborate with teams**, **share knowledge**, and **learn quickly** in dynamic environments.
+
+## 🔧 Skills
+- Html/CSS/JavaScript
+- MERN Stack/ Next JS  
+- MySQL/ MongoDB  
+- UI/UX Designing
+- Ethical Hacking 
+- Bug Hunting/Reporting  
+- Test Case Design & Execution  
  <br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

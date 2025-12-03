@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rahul Misal  
-**Web Developer | Ethical Hacker | Programmer | IT Enthusiast | Quick Learner**
+**Web Developer | App Developer| Ethical Hacker | Programmer | IT Enthusiast | Quick Learner**
 
 I'm a passionate **Web Developer** and **Ethical Hacker** with a strong enthusiasm for technology and continuous learning. With hands-on experience in **manual testing** and a keen eye for detail, I enjoy identifying issues, improving software quality, and contributing to better user experiences. I'm currently seeking opportunities to apply and expand my skills in a professional setting.
 

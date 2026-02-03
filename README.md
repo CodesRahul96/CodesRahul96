@@ -50,12 +50,12 @@ I am a passionate **Software Developer** and **Ethical Hacker** based in Pune, I
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=CodesRahul96&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub stats" />
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=CodesRahul96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRahul96&theme=tokyonight" alt="Rahul's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRahul96&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesRahul96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=CodesRahul96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

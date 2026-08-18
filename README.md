@@ -117,7 +117,21 @@ I am a **Software Engineer** specializing in mobile application architecture, fu
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">📱 ExclusiveTV Engine</h3>
+        <h3 align="center">🎬 PlayNox Player</h3>
+        <p align="center">
+          <a href="https://github.com/CodesRahul96/PlayNox-">
+            <img src="https://img.shields.io/badge/Repo-PlayNox_Player-3DDC84?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+        <p><b>High-Performance Native Android Video Engine</b></p>
+        <ul>
+          <li>100% Kotlin & Jetpack Compose with Material Design 3 (Dynamic / AMOLED).</li>
+          <li>Integrated <code>libmpv</code> (v0.37.0+) & FFmpeg 6.1 with <code>mediacodec</code> HW/HW+/SW decoding.</li>
+          <li>Smart audio boost up to 200%, edge gesture controls, and in-app <code>mpv.conf</code> editor.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📺 ExclusiveTV Engine</h3>
         <p align="center">
           <a href="https://github.com/CodesRahul96/Exclusive-TV-APP">
             <img src="https://img.shields.io/badge/Repo-ExclusiveTV-6366F1?style=for-the-badge&logo=github" />
@@ -130,6 +144,8 @@ I am a **Software Engineer** specializing in mobile application architecture, fu
           <li>Optimized memory consumption & low-latency buffering for Android TV.</li>
         </ul>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">🔄 OTA Update Delivery System</h3>
         <p align="center">
@@ -140,23 +156,8 @@ I am a **Software Engineer** specializing in mobile application architecture, fu
         <p><b>Automated Release & Patch Infrastructure</b></p>
         <ul>
           <li>Designed secure OTA update delivery backend with RESTful API endpoints.</li>
-          <li>Implemented cryptographic SHA-256 binary validation before patch installs.</li>
+          <li>Cryptographic SHA-256 binary validation before patch installs.</li>
           <li>Automated build trigger via GitHub Actions on new release tags.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">📡 Dynamic Media Parser & EPG</h3>
-        <p align="center">
-          <a href="https://github.com/CodesRahul96/Live-TV">
-            <img src="https://img.shields.io/badge/Repo-Media__Parser-F59E0B?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-        <p><b>Streaming Metadata Processing Pipeline</b></p>
-        <ul>
-          <li>Built high-speed asynchronous data parser for media feeds & XML schedules.</li>
-          <li>Implemented error-handling and automated uptime verification service.</li>
         </ul>
       </td>
       <td width="50%" valign="top">

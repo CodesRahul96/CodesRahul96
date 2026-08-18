@@ -1,89 +1,35 @@
-# <p align="center">Hi there 👋, I'm Rahul Misal!</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Software+Developer;Android+Dev+%7C+IPTV+Expert;Ethical+Hacker+%7C+Bug+Hunter;Full+Stack+Web+Developer" alt="Typing SVG" />
-</p>
+  <!-- Anime Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%237F52FF&custom_color_2=%233DDC84&height=220&section=header&text=RAHUL%20MISAL&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
 
----
+  <!-- Animated Typing SVG -->
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Lead+Developer+%40+ExclusiveTV;%F0%9F%93%B1+Android+Native+%26+IPTV+Architect;%F0%9F%9B%A1%EF%B8%8F+Ethical+Hacker+%26+Security+Researcher;%F0%9F%92%BB+Full-Stack+MERN+%26+Cloud+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
-### 🚀 About Me
+  <!-- Anime Mascot & Quick Status -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bGd0ZGlxZWhxZXZ6ODdrZnJqY21tNWJ5a2k3Ynp4OHdrNHZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="Anime Chill Coding" />
 
-I am a passionate **Software Developer** and **Ethical Hacker** based in Pune, India. I specialize in building high-performance Android applications and secure web ecosystems. Currently, I am the lead developer of **ExclusiveTV**, a professional-grade IPTV application.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/codesrahul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.codesrahul.xyz"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+    <a href="mailto:codesrahul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/codesrahul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  </p>
 
-- 🔭 **Current Focus**: Scaling the ExclusiveTV ecosystem and enhancing its security framework.
-- 🌱 **Learning**: Advanced Android kernel security and cloud-native microservices.
-- 👯 **Collaboration**: Open to contributing to high-impact Open Source projects in Android and Web Security.
-- 💬 **Ask Me About**: Android TV, HLS/MPD Streaming, DRM Implementation, MERN Stack, and Penetration Testing.
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/codesrahul) | [Website](https://www.codesrahul.xyz) | [Email](mailto:codesrahul@gmail.com)
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Technical Arsenal
+## ⚡ About Me
 
-#### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExoPlayer-000000?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-#### ⚙️ Frameworks & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-#### 🎨 Design & Editing
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-#### ☁️ Hosting & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### 🛡️ Security & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug_Hunting-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRahul96&theme=tokyonight" alt="Rahul's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRahul96&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodesRahul96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Featured Projects
-
-- 📺 **[ExclusiveTV](https://github.com/CodesRahul96/Exclusive-TV-APP)** - A premium IPTV player for Android/Android TV with advanced features.
-- 🔄 **[Exclusive-TV-Updates](https://github.com/CodesRahul96/Exclusive-TV-Updates)** - Centralized OTA update system for the ExclusiveTV ecosystem.
-- 📡 **[Live-TV](https://github.com/CodesRahul96/Live-TV)** - Repository for high-quality M3U playlists and EPG configurations.
-
----
-
-<p align="center">
-  <a href="https://www.codesrahul.xyz">Website</a> •
-  <a href="https://www.linkedin.com/in/codesrahul">LinkedIn</a> •
-  <a href="https://twitter.com/codesrahul">Twitter</a>
-</p>
+```yaml
+Developer_Profile:
+  Name: Rahul Misal
+  Role: Lead Android & IPTV Engineer / Security Specialist
+  Location: Pune, Maharashtra, India 🇮🇳
+  Primary_Focus: ExclusiveTV Ecosystem Architect & IPTV Security
+  Current_Passions: Android Kernel Defense, HLS/MPD DRM Systems, Cloud Microservices

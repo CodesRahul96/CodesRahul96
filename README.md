@@ -27,18 +27,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 Engineering Profile
+## 👨‍💻 Engineering Profile & Overview
 
 ```typescript
 const developerProfile = {
   name: "Rahul Misal",
   role: "Software Engineer & Mobile Systems Specialist",
   location: "Pune, Maharashtra, India 🇮🇳",
+  experience: "Architecting high-performance Android & Full-Stack Web solutions",
   coreFocus: [
-    "Native Android Architecture (Kotlin / Java / Jetpack Compose)",
-    "Full-Stack Web Ecosystems (React, Next.js, Node.js, Express)",
-    "High-Performance Media & Streaming Engines (Media3, ExoPlayer, HLS/DASH)",
-    "Security Engineering & Application Vulnerability Assessment"
+    "Native Android Architecture (MVVM, Clean Arch, Kotlin, Jetpack Compose)",
+    "Full-Stack Web Ecosystems (React, Next.js, Node.js, Express, MongoDB)",
+    "Low-Latency Streaming Pipelines (Media3, ExoPlayer, HLS/DASH)",
+    "Security Engineering (Reverse Engineering Defense, SSL Pinning, Pentesting)"
   ],
-  status: "Building resilient software & exploring cloud-native microservices"
+  status: "Engineering scalable software systems & cloud microservices"
 };
